@@ -1,0 +1,8 @@
+.Navmodule{
+    display: flex;
+    margin: 2px;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+  

@@ -1,0 +1,44 @@
+.containerSearch{
+   display: flex;
+   align-items: center;
+   padding-top: 10px;
+   margin-left: 5%;
+}
+
+.logo{
+    width: 30%;
+}
+.containerInput{
+    margin-left: 45%;
+}
+.input{
+    border-radius: 15px;
+    position: absolute;
+    width: 30%;
+    height: 6%;
+    padding-left: 1%;
+    font-size: 18px;
+   
+}
+
+.btn {
+    position: relative;
+    cursor: pointer;
+   
+}
+@media(min-width:400px) and (max-width: 700px){
+    .containerSearch{
+        flex-direction: column;
+        margin-bottom: 15%;
+        padding-top: 10%;
+    }
+    .logo{
+        width: 70%;
+    }
+    .containerInput{
+        margin: 5% 50% 0% 0%;
+    }
+    .input{
+        width: 70%;
+    }
+}
