@@ -1,0 +1,1 @@
+This project is part of my professional practices as; FULL-STACK Web Developer, the web app has; a BACK-END and a FRONT-END using as JavaScript language in the Front use React/Redux, CSS, for the Back use PostgresSQL Express Sequalize# Rick-and-Morty
